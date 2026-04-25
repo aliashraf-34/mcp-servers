@@ -53,7 +53,7 @@ All servers are designed to be lightweight, composable, and easy to integrate in
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/mcp-server-by-ali.git
+git clone https://github.com/aliashraf-34/mcp-servers.git
 cd mcp-server-by-ali
 npm install
 ```
